@@ -1,5 +1,5 @@
 # AHE_2026
-This repository contains the dataset and scripts used for the Atlas Histórico del Español.
+This repository contains the dataset and scripts used for the Atlas Histórico del Español (https://atlashistorico.uib.es/).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
